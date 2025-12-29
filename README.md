@@ -1,39 +1,41 @@
-# 👋 Hola, soy Isaac Villanueva (IsaacBoku)
+# 👋 ¡Hola! Soy Isaac Villanueva (IsaacBoku)
 
-🎮 Desarrollador de videojuegos | Unity & Unreal Engine | 3D & 2D | Blender & Maya
+🎮 Desarrollador de videojuegos | Unity & Unreal Engine | 3D & 2D | Blender & Maya  
 
-¡Bienvenido a mi perfil! Soy un apasionado de los videojuegos y la creación de experiencias interactivas. Me encanta aprender nuevas técnicas y herramientas, experimentar con mecánicas innovadoras y mejorar mis habilidades a través de Game Jams y proyectos personales.
+Soy un apasionado de crear experiencias interactivas y mecánicas innovadoras. Me encanta participar en Game Jams, experimentar con nuevas ideas y mejorar mis habilidades a través de proyectos personales.  
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Herramientas & Tecnologías
 
-- **Motores de juego:** Unity (C#), Unreal Engine (Blueprint & C++)
-- **Modelado 3D:** Blender, Maya
-- **Lenguajes:** C#, C++, Python básico, Java (para mods de Minecraft)
-- **Diseño de juegos:** JRPGs 2.5D, sistemas de diálogo, mecánicas de puzzles y físicas
-- **Otros:** Git, GitHub, New Input System, animaciones, UI/UX para juegos
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-100000?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-Aquí algunos de mis trabajos más importantes y recientes:
+<div align="center">
 
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| **Puzzle Magnético 2D** | Juego de puzzles con mecánicas de magnetismo, donde el jugador controla un robot con interacción física y eléctrica. | [Itch.io](https://isaacboku.itch.io/) |
-| **Sistema de Diálogo Avanzado** | Sistema de diálogos con efectos visuales como <wave>, <tremble>, <pulse>, <shake>, <rotate> y <colorshift>. Implementado en Unity. | 🎥 Demo disponible en repos |
-| **JRPG 2.5D** | Desarrollo de juego estilo JRPG con combates por turnos, historia y mecánicas RPG clásicas. | 🎥 Demo disponible en repos |
-| **Mods para Minecraft** | Experimentos y mods usando Java. | 🎥 Demo disponible en repos |
+| <img src="https://img.itch.zone/aW1nLzIxNDgxOTEzLmdpZg==/original/pFyQrs.gif" alt="Puzzle Magnético" /> | Juego de puzzles con mecánicas de magnetismo. El jugador controla un robot con interacción física y eléctrica. | [Itch.io](https://isaacboku.itch.io/) |
+| <img src="https://img.itch.zone/aW1nLzE1MjA2MzcyLnBuZw==/original/O6LrZx.png" alt="Rocky Rancher" /> | Juego de gestión y aventuras en granja, con mecánicas de exploración y recolección de recursos. | [Dimbersoft - Rocky Rancher](https://dimbersoft.itch.io/rocky-rancher) |
+| <img src="https://via.placeholder.com/200x100?text=Portfolio" alt="Portfolio" /> | Mi portafolio interactivo de juegos y proyectos personales. | [IsaacBoku Portfolio](https://isaacboku.itch.io/portfolio) |
+| <img src="https://via.placeholder.com/200x100?text=Color+of+the+Line" alt="Color of the Line" /> | Juego de puzzles basado en colores y líneas, con mecánicas creativas de resolución de acertijos. | [BumColor Studios - Color of the Line](https://bumcolorstudios.itch.io/color-of-the-line) |
 
-> ⚡ Todos los proyectos cuentan con documentación y, cuando es posible, demos jugables.
+</div>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 ![IsaacBoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacBoku&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBoku&layout=compact&theme=radical)
 
 ---
 
@@ -45,4 +47,4 @@ Aquí algunos de mis trabajos más importantes y recientes:
 
 ---
 
-Gracias por visitar mi perfil, ¡espero que disfrutes explorando mis proyectos! 🚀
+Gracias por visitar mi perfil. ¡Espero que disfrutes explorando mis proyectos! 🚀
