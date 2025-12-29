@@ -34,8 +34,8 @@ Soy un apasionado de crear experiencias interactivas y mecánicas innovadoras. M
 
 ## 📊 Estadísticas de GitHub
 
-![IsaacBoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacBoku&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBoku&layout=compact&theme=radical)
+![Mis GitHub Stats](https://github-stats-isaacboku.vercel.app/api?username=IsaacBoku&show_icons=true&theme=radical&count_private=true)
+![Top Lenguajes](https://github-stats-isaacboku.vercel.app/api/top-langs?username=IsaacBoku&layout=compact&theme=radical)
 
 ---
 
