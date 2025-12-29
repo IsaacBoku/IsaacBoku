@@ -24,9 +24,9 @@ Soy un apasionado de crear experiencias interactivas y mecánicas innovadoras. M
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
 | <img src="https://img.itch.zone/aW1nLzIxNDgxOTEzLmdpZg==/original/pFyQrs.gif" alt="Puzzle Magnético" /> | Juego de puzzles con mecánicas de magnetismo. El jugador controla un robot con interacción física y eléctrica. | [Itch.io](https://isaacboku.itch.io/) |
-| <img src="https://img.itch.zone/aW1nLzE1MjA2MzcyLnBuZw==/original/O6LrZx.png" alt="Rocky Rancher" /> | Juego de gestión y aventuras en granja, con mecánicas de exploración y recolección de recursos. | [Dimbersoft - Rocky Rancher](https://dimbersoft.itch.io/rocky-rancher) |
+| <img src="https://github.com/IsaacBoku/IsaacBoku/blob/main/PosterRockyRancherA2.png" alt="Rocky Rancher" /> | Juego de gestión y aventuras en granja, con mecánicas de exploración y recolección de recursos. | [Dimbersoft - Rocky Rancher](https://dimbersoft.itch.io/rocky-rancher) |
 | <img src="https://via.placeholder.com/200x100?text=Portfolio" alt="Portfolio" /> | Mi portafolio interactivo de juegos y proyectos personales. | [IsaacBoku Portfolio](https://isaacboku.itch.io/portfolio) |
-| <img src="https://via.placeholder.com/200x100?text=Color+of+the+Line" alt="Color of the Line" /> | Juego de puzzles basado en colores y líneas, con mecánicas creativas de resolución de acertijos. | [BumColor Studios - Color of the Line](https://bumcolorstudios.itch.io/color-of-the-line) |
+| <img src="https://github.com/IsaacBoku/IsaacBoku/blob/main/PosterTheColorOfTheLines.png" alt="Color of the Line" /> | Juego de puzzles basado en colores y líneas, con mecánicas creativas de resolución de acertijos. | [BumColor Studios - Color of the Line](https://bumcolorstudios.itch.io/color-of-the-line) |
 
 </div>
 
