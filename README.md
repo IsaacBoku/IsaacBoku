@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Isaac Villanueva (IsaacBoku)
+# ¡Hola! Soy Isaac Villanueva (IsaacBoku)
 
 🎮 Desarrollador de videojuegos | Unity & Unreal Engine | 3D & 2D | Blender & Maya  
 
@@ -17,7 +17,7 @@ Soy un apasionado de crear experiencias interactivas y mecánicas innovadoras. M
 
 ---
 
-## 🎯 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
 
@@ -32,14 +32,7 @@ Soy un apasionado de crear experiencias interactivas y mecánicas innovadoras. M
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Mis GitHub Stats](https://github-stats-isaacboku.vercel.app/api?username=IsaacBoku&show_icons=true&theme=radical&count_private=true)
-![Top Lenguajes](https://github-stats-isaacboku.vercel.app/api/top-langs?username=IsaacBoku&layout=compact&theme=radical)
-
----
-
-## 📫 Contacto
+## Contacto
 
 - 💼 LinkedIn: [Isaac Villanueva](https://www.linkedin.com/in/isaac-villanueva-ferrera-2988b7274/)
 - 🎮 Itch.io: [IsaacBoku Games](https://isaacboku.itch.io/)
